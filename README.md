@@ -4,7 +4,7 @@
 To train my skills on python, I made a simple currency converter
 
 ## Screenshot
-![home page screenshot](https://ibb.co/7k0qyHJ)
+![home page screenshot](https://i.ibb.co/fDTs0bY/python-h-Fh-HUYi-Kiv.png)
 
 
 ### Prerequisites
